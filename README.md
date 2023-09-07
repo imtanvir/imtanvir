@@ -35,8 +35,8 @@ I'm a passionate MERN Stack developer with a love for coding and a strong founda
 ---
 
 ## 🛠️ Languages and Tools
-
-<table align="center">
+<p align="center">
+<table>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50"/>
@@ -75,5 +75,5 @@ I'm a passionate MERN Stack developer with a love for coding and a strong founda
     </td>
   </tr>
 </table>
-
+</p>
 </div>
