@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Md Tanvir Parvej Badhon</h1>
 <p align="center">MERN Stack | Web App Developer</p>
-![Coding](https://raw.githubusercontent.com/imtanvir/imtanvir/main/ezgif.com-gif-maker.gif)
+![Coding](https://raw.githubusercontent.com/imtanvir/imtanvir/main/ezgif.com-gif-maker.gif) 
 <p align="center">
   <a href="https://github.com/imtanvir"><img src="https://img.shields.io/github/followers/imtanvir?label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views"></a>
 </p>
