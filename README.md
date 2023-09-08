@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Group%208.png" />
 </a>
 
-## :chart_with_upwards_trend: Current Stats
+ :chart_with_upwards_trend: Current Stats
 
 <br/>
 <p align="center">
