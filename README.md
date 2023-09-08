@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/tanvirparvej2.me/">
-<img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/details.png" />
+<img width="100%" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/details.png" />
 </a>
 <br/>
 <br/>
