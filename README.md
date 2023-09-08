@@ -3,6 +3,8 @@
 
 ![Coding](https://raw.githubusercontent.com/imtanvir/imtanvir/main/ezgif.com-gif-maker.gif){width=100%}
 
+<img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/ezgif.com-gif-maker.gif" alt="Your Coding Animation" width="100%">
+
 <p align="center">
   <a href="https://github.com/imtanvir"><img src="https://img.shields.io/github/followers/imtanvir?label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views"></a>
 </p>
