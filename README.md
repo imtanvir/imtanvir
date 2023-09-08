@@ -1,6 +1,8 @@
 <a href="https://www.facebook.com/tanvirparvej2.me/">
 <img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Group%208.png" />
 </a>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="imtanvir" /> </p>
 <h1>
  :chart_with_upwards_trend: Current Stats
 </h1>
@@ -41,8 +43,6 @@
 <img src="https://github.com/imtanvir/imtanvir/blob/main/skill/express.png"/>
 <img src="https://github.com/imtanvir/imtanvir/blob/main/skill/mongo.png"/>
 </p><br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="imtanvir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtanvir" alt="imtanvir" /></a> </p>
 
