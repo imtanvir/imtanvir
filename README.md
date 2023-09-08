@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Md Tanvir Parvej Badhon</h1>
 <p align="center">MERN Stack | Web App Developer</p>
 
-![Coding](https://raw.githubusercontent.com/imtanvir/imtanvir/main/ezgif.com-gif-maker.gif){width=100%}
+<!-- ![Coding](https://raw.githubusercontent.com/imtanvir/imtanvir/main/ezgif.com-gif-maker.gif){width=100%} -->
 
 <img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/ezgif.com-gif-maker.gif" alt="Your Coding Animation" width="100%">
 
