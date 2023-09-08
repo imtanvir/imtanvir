@@ -24,7 +24,7 @@
 <a href="https://www.leetcode.com/parvej001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parvej001" height="30" width="40" /></a>
 </p>
 
-<h1>:computer: Expertise in:</h1>
+<h1>:computer: Working Technology:</h1>
 <br>
 <p align="center">
 <img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/HTML.png"/>
