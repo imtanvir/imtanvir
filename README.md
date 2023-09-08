@@ -27,23 +27,23 @@
 <h1>:computer: Expertise in:</h1>
 <br>
 <p align="center">
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/HTML.png"/>
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/css.png"/>
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/JavaScript.png"/>
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/c.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/HTML.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/css.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/JavaScript.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/c.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/react.png"/>
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/redux.png"/>
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/sass.png"/>
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/tailwind.png"/>
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/Bootsrap.png"/>
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/firebase.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/react.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/redux.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/sass.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/tailwind.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/Bootsrap.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/node.png"/>
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/express.png"/>
-<img src="https://github.com/imtanvir/imtanvir/blob/main/skill/mongo.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/node.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/express.png"/>
+<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/mongo.png"/>
 </p><br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtanvir" alt="imtanvir" /></a> </p>
