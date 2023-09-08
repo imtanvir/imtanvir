@@ -79,5 +79,5 @@ I'm a passionate MERN Stack developer with a love for coding and a strong founda
   </tr>
 </table>
 </p>
-<img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/ezgif.com-gif-maker.gif" alt="Your Coding Animation" width="100%">
+<img align="center" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/ezgif.com-gif-maker.gif" alt="Your Coding Animation" width="60%">
 </div>
