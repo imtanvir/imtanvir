@@ -1,7 +1,7 @@
-![Background Image](https://raw.githubusercontent.com/imtanvir/imtanvir/main/Group%208.png)
-
+<a href="https://www.facebook.com/tanvirparvej2.me/">
+<img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Group%208.png" />
+</a>
 <div style="background-color: rgb(2,0,36); background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(216,67,232,0.7091211484593838) 85%, rgba(0,212,255,1) 100%) !important; ">
-<h3 align="center">A passionate MERN stack |Web App developer from Bangladesh. I love coding and have a strong foundation in web development. I specialize in building dynamic web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="imtanvir" /> </p>
 
