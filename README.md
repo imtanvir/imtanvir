@@ -1,4 +1,4 @@
-![Background Image]([https://example.com/your-image.jpg](https://raw.githubusercontent.com/imtanvir/imtanvir/main/abstract-background-with-green-flowing-lines-design_1048-13335.avif))
+![Background Image](https://raw.githubusercontent.com/imtanvir/imtanvir/main/abstract-background-with-green-flowing-lines-design_1048-13335.avif)
 
 <div style="background-color: rgb(2,0,36); background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(216,67,232,0.7091211484593838) 85%, rgba(0,212,255,1) 100%) !important; ">
 <h1 align="center">Hi 👋, I'm Md Tanvir Parvej Bandhon</h1>
