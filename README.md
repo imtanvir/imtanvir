@@ -1,8 +1,9 @@
 <a href="https://www.facebook.com/tanvirparvej2.me/">
 <img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Group%208.png" />
 </a>
-
- ##:chart_with_upwards_trend: Current Stats
+<h1>
+ :chart_with_upwards_trend: Current Stats
+</h1>
 
 <br/>
 <p align="center">
