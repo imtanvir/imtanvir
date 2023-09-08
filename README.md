@@ -13,7 +13,7 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=imtanvir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtanvir" alt="imtanvir" /></a> </p>
 <h1 align="left">:mailbox:Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/mdtanvirparvej2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdtanvirparvej2" height="30" width="40" /></a>
@@ -45,8 +45,6 @@
 <img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/express.png"/>
 <img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/mongo.png"/>
 </p><br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtanvir" alt="imtanvir" /></a> </p>
 
 ## :eyes: Nowadays:
 
