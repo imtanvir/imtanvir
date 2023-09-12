@@ -27,24 +27,25 @@
 <h1>:computer: Working Technology:</h1>
 <br>
 <p align="center">
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/HTML.png"/>
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/css.png"/>
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/JavaScript.png"/>
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/c.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/HTML.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/CSS.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Bootstrap.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Tailwind.png"/>
 </p>
 <p align="center">
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/react.png"/>
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/redux.png"/>
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/sass.png"/>
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/tailwind.png"/>
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/Bootsrap.png"/>
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/firebase.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JavaScript.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/React.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/ReactRouterDom.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Firebase.png"/>
 </p>
 <p align="center">
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/node.png"/>
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/express.png"/>
-<img width="80px" src="https://github.com/imtanvir/imtanvir/blob/main/skill/mongo.png"/>
-</p><br/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Nodejs.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Express.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/MongoDB.png"/>
+<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JWT.png"/>
+</p>
+
+<br/>
 
 ## :eyes: Nowadays:
 
