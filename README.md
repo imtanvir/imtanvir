@@ -24,7 +24,7 @@
 <a href="https://www.leetcode.com/parvej001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parvej001" height="30" width="40" /></a>
 </p>
 
-<h1>:computer: We Technology:</h1>
+<h1>:computer: Web App Skills & Technology:</h1>
 <br>
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/HTML.png"/>
