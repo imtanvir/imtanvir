@@ -62,7 +62,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtanvir&show_icons=true&locale=en&layout=compact" alt="imtanvir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtanvir&show_icons=true&locale=en" alt="imtanvir" /></p>
-<div markdown="1" style="display: flex; justify-content: center; align-items: center;">
+<div width="100%" markdown="1" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="auto">
 </div>
 
