@@ -62,5 +62,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtanvir&show_icons=true&locale=en&layout=compact" alt="imtanvir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtanvir&show_icons=true&locale=en" alt="imtanvir" /></p>
-<img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="100%">
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/programmer-working-on-laptop-8926009-7285900.mp4" alt="Your Coding Animation" width="100%">
 
