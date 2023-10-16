@@ -13,7 +13,7 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=imtanvir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtanvir" alt="imtanvir" /></a> </p>
+
 <h1 align="left">:mailbox:Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/mdtanvirparvej2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdtanvirparvej2" height="30" width="40" /></a>
@@ -59,11 +59,12 @@
 
 - ⚡ Fun fact **I love to help people do positive work and make people charming in their crucial moments.**
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtanvir&show_icons=true&locale=en" alt="imtanvir" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtanvir&show_icons=true&locale=en&layout=compact" alt="imtanvir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtanvir&show_icons=true&locale=en" alt="imtanvir" /></p>
-<div width="100%" markdown="1" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="auto">
+<div markdown="1" >
+  <img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="140">
 </div>
 
 
