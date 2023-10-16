@@ -27,22 +27,22 @@
 <h1>:computer: Web App Skills & Technology:</h1>
 <br>
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/HTML.png"/>
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/CSS.png"/>
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Bootstrap.png"/>
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Tailwind.png"/>
+<img height="100" title="HTML5" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/HTML.png"/>
+<img height="100" title="CSS3" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/CSS.png"/>
+<img height="100" title="BOOTSTRAP-5" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Bootstrap.png"/>
+<img height="100" title="Tailwind Css" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Tailwind.png"/>
 </p>
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JavaScript.png"/>
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/React.png"/>
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/ReactRouterDom.png"/>
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Firebase.png"/>
+<img height="100" title="JavaScript" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JavaScript.png"/>
+<img height="100" title="ReactJS" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/React.png"/>
+<img height="100" title="ReactRouterDom" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/ReactRouterDom.png"/>
+<img height="100" title="Firebase" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Firebase.png"/>
 </p>
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Nodejs.png"/>
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Express.png"/>
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/MongoDB.png"/>
-<img height="150" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JWT.png"/>
+<img height="100" title="Nodejs" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Nodejs.png"/>
+<img height="100" title="Express" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Express.png"/>
+<img height="100" title="MongoDB" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/MongoDB.png"/>
+<img height="100" title="JWT" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JWT.png"/>
 </p>
 
 <br/>
@@ -64,7 +64,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtanvir&show_icons=true&locale=en&layout=compact" alt="imtanvir" /></p>
 
 <div markdown="1" >
-  <img src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="140">
+  <img title="Coding time means fun time!" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="140">
 </div>
 
 
