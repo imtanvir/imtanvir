@@ -1,5 +1,5 @@
   <h1 align="center" >The World Of Technology Is Awesome!</h1>
-
+  <h4 align="center"><code>while(!(succeed = try()));</code></h4>
 <a href="https://www.facebook.com/tanvirparvej2.me/">
 <img width="100%" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/details.png" />
 </a>
