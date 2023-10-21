@@ -1,7 +1,7 @@
   <h1 align="center" >The World Of Technology Is Awesome!</h1>
   <h4 align="center"><code>while(!(succeed = try()));</code></h4>
 <a href="https://github.com/imtanvir/">
-<img title="Tanvir | Full Stack MERN Developer" width="100%" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/details.png" />
+<img title="Tanvir | Full Stack MERN Developer" width="100%" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/ghub.gif" />
 </a>
 <br/>
 <br/>
