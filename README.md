@@ -15,7 +15,6 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=imtanvir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-
 <h1 align="left">:mailbox:Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/mdtanvirparvej2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdtanvirparvej2" height="20" width="30" /></a>
@@ -59,11 +58,10 @@
 - 📫 You can contact with me at **tanvirparvej101@gmail.com**
 
 - ⚡ Fun fact **I love to help people do positive work and make people charming in their crucial moments.**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtanvir&show_icons=true&locale=en" alt="imtanvir" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtanvir&show_icons=true&locale=en&layout=compact" alt="imtanvir" /></p>
-
-<div markdown="1" >
+<div align="center">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtanvir&show_icons=true&locale=en&layout=compact" alt="imtanvir" />
   <img title="Coding time means fun time!" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="140">
+  <img src="https://github-readme-stats.vercel.app/api?username=imtanvir&show_icons=true&locale=en" alt="Tanvir Parvej Git History" />
+</p>
 </div>
