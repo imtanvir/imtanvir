@@ -1,7 +1,7 @@
   <h1 align="center" >The World Of Technology Is Awesome!</h1>
   <h4 align="center"><code>while(!(succeed = try()));</code></h4>
 <a href="https://www.facebook.com/tanvirparvej2.me/">
-<img width="100%" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/details.png" />
+<img title="Tanvir | Full Stack MERN Developer" width="100%" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/details.png" />
 </a>
 <br/>
 <br/>
@@ -29,32 +29,30 @@
 <h1>:computer: Web App Skills & Technology:</h1>
 <br>
 <p align="center">
-<img height="100" title="HTML5" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/HTML.png"/>
-<img height="100" title="CSS3" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/CSS.png"/>
-<img height="100" title="BOOTSTRAP-5" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Bootstrap.png"/>
-<img height="100" title="Tailwind Css" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Tailwind.png"/>
-<img height="100" title="JavaScript" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JavaScript.png"/>
-<img height="100" title="ReactJS" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/React.png"/>
+<img height="70" title="HTML5" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/HTML.png"/>
+<img height="70" title="CSS3" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/CSS.png"/>
+<img height="70" title="BOOTSTRAP-5" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Bootstrap.png"/>
+<img height="70" title="Tailwind Css" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Tailwind.png"/>
+<img height="70" title="JavaScript" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JavaScript.png"/>
+<img height="70" title="ReactJS" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/React.png"/>
 </p>
 <p align="center">
-<img height="100" title="ReactRouterDom" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/ReactRouterDom.png"/>
-<img height="100" title="Firebase" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Firebase.png"/>
-<img height="100" title="Nodejs" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Nodejs.png"/>
-<img height="100" title="Express" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Express.png"/>
+<img height="70" title="ReactRouterDom" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/ReactRouterDom.png"/>
+<img height="70" title="Firebase" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Firebase.png"/>
+<img height="70" title="Nodejs" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Nodejs.png"/>
+<img height="70" title="Express" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Express.png"/>
 </p>
 <p align="center">
-<img height="100" title="MongoDB" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/MongoDB.png"/>
-<img height="100" title="JWT" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JWT.png"/>
+<img height="70" title="MongoDB" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/MongoDB.png"/>
+<img height="70" title="JWT" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JWT.png"/>
 <p align="center">Loading...</p>
 </p>
 
-<br/>
-
 ## :eyes: Nowadays:
 
-- 🔭 I’m currently working on [MERN Stack](https://www.mongodb.com/mern-stack)
+- 🔭 I’m currently working on [Advanced MERN Stack](https://www.mongodb.com/mern-stack)
 
-- 🌱 I’m currently learning **Node js, Next js, typescript, Express js, React js**
+- 🌱 I’m currently learning **Node js, Next js, typescript, Express js** in Advanced Level.
 
 - 👨‍💻 All of my projects are available at [https://github.com/imtanvir](https://github.com/imtanvir)
 
