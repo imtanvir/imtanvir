@@ -40,11 +40,9 @@
 <img height="70" title="Firebase" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Firebase.png"/>
 <img height="70" title="Nodejs" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Nodejs.png"/>
 <img height="70" title="Express" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Express.png"/>
-</p>
-<p align="center">
 <img height="70" title="MongoDB" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/MongoDB.png"/>
 <img height="70" title="JWT" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JWT.png"/>
-<p align="center">Loading...</p>
+<p align="center">Learning...</p>
 </p>
 
 ## :eyes: Nowadays:
