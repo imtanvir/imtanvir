@@ -7,15 +7,15 @@
 <br/>
 <div>  </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="imtanvir" /> </p>
-<h1>
- :chart_with_upwards_trend: Current Stats
-</h1>
 
+ :chart_with_upwards_trend: Current Stats
+ 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=imtanvir&theme=ambient_gradient&show_icons=true" alt="Tanvir Parvej Git History" /></p>
 <br/>
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=imtanvir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-<h1 align="left">:mailbox:Connect with me:</h1>
+<h4 align="left">:mailbox:Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/mdtanvirparvej2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdtanvirparvej2" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/tanvirparvej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvirparvej" height="20" width="30" /></a>
@@ -25,7 +25,7 @@
 <a href="https://www.leetcode.com/parvej001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parvej001" height="20" width="30" /></a>
 </p>
 
-<h1>:computer: Web App Skills & Technology:</h1>
+<h4>:computer: Web App Skills & Technology:</h4>
 <br>
 <p align="center">
 <img height="70" title="HTML5" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/HTML.png"/>
@@ -68,8 +68,7 @@
 
 <!-- You can continue the list as needed -->
 
-  <img title="imtanvir" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtanvir&show_icons=true&locale=en&layout=compact" alt="imtanvir" />
+  <img title="imtanvir" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtanvir&layout=donut" alt="imtanvir" />
   <img title="Coding time means fun time!" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="140">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtanvir&show_icons=true&locale=en" alt="Tanvir Parvej Git History" />
 </p>
 </div>
