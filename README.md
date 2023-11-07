@@ -6,7 +6,7 @@
 <br/>
 <br/>
 <div>  </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="imtanvir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanvir&label=Visited&color=0e75b6&style=flat" alt="imtanvir" /> </p>
 
  :chart_with_upwards_trend: Current Stats
  
