@@ -64,7 +64,7 @@
 - Python
 - JavaScript
 - Java
-- C++
+- C
 
   <img title="Coding time means fun time!" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="140">
 </p>
