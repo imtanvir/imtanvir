@@ -66,9 +66,6 @@
 - Java
 - C++
 
-<!-- You can continue the list as needed -->
-
-  <img title="imtanvir" src="https://camo.githubusercontent.com/c732688eab87f50bfdf165f7b38a1824bd589f7f07c120ba2bf03d5036ede2f2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50726f6772616d6d696e674865726f31266c61796f75743d646f6e7574" alt="imtanvir" />
   <img title="Coding time means fun time!" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="140">
 </p>
 </div>
