@@ -42,6 +42,11 @@
 <img height="70" title="Express" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/Express.png"/>
 <img height="70" title="MongoDB" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/MongoDB.png"/>
 <img height="70" title="JWT" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/JWT.png"/>
+<br>
+  
+<img height="70" title="NextJs" src="https://raw.githubusercontent.com/imtanvir/imtanvir/refs/heads/main/png-transparent-next-js-hd-logo.png"/>
+<img height="70" title="Mongoose ODM" src="https://raw.githubusercontent.com/imtanvir/imtanvir/refs/heads/main/mongoose.png"/>
+  
 <p align="center">Learning...</p>
 </p>
 
