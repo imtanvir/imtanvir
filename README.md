@@ -45,7 +45,7 @@
 <br>
   
 <img height="70" title="NextJs" src="https://raw.githubusercontent.com/imtanvir/imtanvir/refs/heads/main/png-transparent-next-js-hd-logo.png"/>
-<img height="70" title="Mongoose ODM" src="https://raw.githubusercontent.com/imtanvir/imtanvir/refs/heads/main/mongoose.png"/>
+<img height="70" title="Mongoose ODM" src="https://raw.githubusercontent.com/imtanvir/imtanvir/refs/heads/main/1_OYpEW3PMltGC2MVvJ-5QTw.png"/>
   
 <p align="center">Learning...</p>
 </p>
