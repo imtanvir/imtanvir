@@ -49,13 +49,13 @@
 
 - 🔭 I’m currently working on [Advanced MERN Stack & Next Js 14+](https://www.mongodb.com/mern-stack)
 
-- 🌱 I’m currently learning **Node js, Next js, typescript, Express js** in Advanced Level.
+- 🌱 I’m currently learning ** Next js 15, Advanced typescript, Advanced Database management, PostgreSQL**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/imtanvir](https://github.com/imtanvir)
 
 - 📫 You can contact with me at **tanvirparvej101@gmail.com**
 
-- ⚡ Fun fact **I love to help people do positive work and make people charming in their crucial moments.**
+- ⚡ Fun fact **I love to solve critical problems and help people do positive work and make people charming in their crucial moments.**
 <div align="center">
 <p>
   
@@ -63,7 +63,6 @@
 
 - Python
 - JavaScript
-- Java
 - C
 
   <img title="Coding time means fun time!" src="https://raw.githubusercontent.com/imtanvir/imtanvir/main/cc.gif" alt="Your Coding Animation" width="140">
