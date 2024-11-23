@@ -8,6 +8,9 @@
 <div>  </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtanvir&label=Visited&color=0e75b6&style=flat" alt="imtanvir" /> </p>
 
+ 🤵‍♂️About Me
+<p>Hi, My name is Tanvir Parvej. I am a web developer who is very passionate and dedicated to my work. With 5+ years of experience as a developer, I have acquired the skills and knowledge to make your project a successful finish.</p>
+
  :chart_with_upwards_trend: Current Stats
  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=imtanvir&theme=ambient_gradient&show_icons=true" alt="Tanvir Parvej Git History" /></p>
