@@ -47,7 +47,7 @@
 
 ## :eyes: Nowadays:
 
-- 🔭 I’m currently working on [Advanced MERN Stack](https://www.mongodb.com/mern-stack)
+- 🔭 I’m currently working on [Advanced MERN Stack & Next Js 14+](https://www.mongodb.com/mern-stack)
 
 - 🌱 I’m currently learning **Node js, Next js, typescript, Express js** in Advanced Level.
 
