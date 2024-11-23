@@ -46,8 +46,10 @@
   
 <img height="70" title="NextJs" src="https://raw.githubusercontent.com/imtanvir/imtanvir/refs/heads/main/png-transparent-next-js-hd-logo.png"/>
 <img height="70" title="Mongoose ODM" src="https://raw.githubusercontent.com/imtanvir/imtanvir/refs/heads/main/1_OYpEW3PMltGC2MVvJ-5QTw.png"/>
+<img height="70" title="Typescript" src="https://raw.githubusercontent.com/imtanvir/imtanvir/refs/heads/main/5968326.png"/>
+<img height="70" title="NoSQL DB" src="https://raw.githubusercontent.com/imtanvir/imtanvir/refs/heads/main/nosql.png"/>
   
-<p align="center">Learning...</p>
+<p align="center">More Exploring & Learning...</p>
 </p>
 
 ## :eyes: Nowadays:
